@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"testing"
 
+	"github.com/analysic/iri"
+	"github.com/analysic/it"
 	"github.com/aws/aws-sdk-go/service/dynamodb/dynamodbattribute"
-	"github.com/fogfish/iri"
-	"github.com/fogfish/it"
 )
 
 var (
